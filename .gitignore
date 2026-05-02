@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+
+# Datasets and generated experiment outputs
+bot-iot/
+processed_datasets/
+results/
+plots/
+*.pkl
+*_final.csv
+combined_original_dataset.csv
